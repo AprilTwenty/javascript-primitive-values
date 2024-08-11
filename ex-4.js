@@ -4,4 +4,5 @@
 let numberOfSoldProduct = 12000;
 let numberOfProductInStock = undefined;
 
-console.log((numberOfSoldProduct / numberOfProductInStock) * 100);
+console.log((numberOfSoldProduct / numberOfProductInStock) * 100); //Nan
+
